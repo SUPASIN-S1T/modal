@@ -43,6 +43,7 @@ html, body {
     background-color: rgba(0, 0, 0, 0.4);
     /* Black w/ opacity */
     display: none;
+
 }
 
 .float-modal-alert {
@@ -59,6 +60,7 @@ html, body {
     align-items: center;
     position: relative;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
 }
 
 .float-modal-alert h1 {
